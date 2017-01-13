@@ -1,2 +1,6 @@
-Solo un commento in prima riga
+Edito dal Remoto sito
+Seconda Locale
 
+Opzione 1
+
+<End Footer>
