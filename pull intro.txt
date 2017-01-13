@@ -2,3 +2,5 @@ Edito dal Remoto sito
 Seconda Locale
 Seconda Remoto
 Terza Remoto Quarta Fila
+
+Aggiunta dal locale
