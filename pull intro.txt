@@ -1,7 +1,2 @@
-Edito dal Remoto sito
-Seconda Locale
-Seconda Remoto
-Terza Remoto Quarta Fila
+Solo un commento in prima riga
 
-Opzione five
-Aggiunta dal locale
